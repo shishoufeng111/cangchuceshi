@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OnlineExamSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OnlineExamSystem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
